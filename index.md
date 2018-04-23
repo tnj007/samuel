@@ -2,32 +2,22 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Hi there !
 
-[Link to another page](./another-page.html).
-
-[Link to another page](./example.html).
-
-[Link to another page](./example1.html).
-
-[Link to another page](./example2.html).
-
-[Link to another page](./example3.html).
+Here are all things related to me and orthopaedics- my thesis, research, consents, example discharge summaries, some books and important links-
 
 
-There should be whitespace between paragraphs.
+[Thesis data collection proforma- english](./proforma.html).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Thesis data collection proforma- kannada](./proforma-kn.html).
 
-# Header 1
+[Consent for participants](https://docs.google.com/document/d/1wH9lNs_hkwAxh84Fg9TO1vAMfPbuvat3nRPKsgdGNbk/edit).
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<centre>Any queries?- [sam@orthosam.com](mailto:sam@orthosam.com).</centre>
+
 
 ## Posts
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 <ul>
   {% for post in site.posts %}
     <li>
