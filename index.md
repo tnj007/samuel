@@ -6,9 +6,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-[Link to another page](./example.html).
+[Link to another page](./example1.html).
 
-[Link to another page](./README.html).
+[Link to another page](./example2.html).
+
+[Link to another page](./example3.html).
 
 
 There should be whitespace between paragraphs.
@@ -118,7 +120,7 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
+<!--
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
@@ -126,3 +128,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
