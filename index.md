@@ -13,7 +13,7 @@ Here are all things related to me and orthopaedics- my thesis, research, consent
 
 [Consent for participants](https://docs.google.com/document/d/1wH9lNs_hkwAxh84Fg9TO1vAMfPbuvat3nRPKsgdGNbk/edit).
 
-<centre> Any queries?- [sam@orthosam.com](mailto:sam@orthosam.com).</centre>
+Any queries?- [sam@orthosam.com](mailto:sam@orthosam.com).
 
 
 ## Posts
