@@ -3,3 +3,5 @@ description: Samuel's orthopaedic repository
 show_downloads: false
 google_analytics: 
 theme: jekyll-theme-slate
+timezone: Asia/Calcutta
+keep_files: [keep]
