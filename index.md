@@ -17,7 +17,7 @@ Here are all things related to me and orthopaedics- my thesis, research, consent
 
 >_Any queries ? email:_ [sam@orthosam.com](mailto:sam@orthosam.com).
 
-
+<!--
 ## Posts
 
 <ul>
@@ -28,3 +28,4 @@ Here are all things related to me and orthopaedics- my thesis, research, consent
     </li>
   {% endfor %}
 </ul>
+-->
