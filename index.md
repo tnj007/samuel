@@ -15,7 +15,7 @@ Here are all things related to me and orthopaedics- my thesis, research, consent
 
 [Public access files](https://drive.google.com/drive/folders/1MGTIataD9rRTVA7qBUZC8Im4Sq99NCri).
 
->_Any queries ? email: [sam@orthosam.com](mailto:sam@orthosam.com).
+>_Any queries ? email:_ [sam@orthosam.com](mailto:sam@orthosam.com).
 
 
 ## Posts
