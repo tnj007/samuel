@@ -24,6 +24,7 @@ Here are all things related to me and orthopaedics- my thesis, research, consent
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
