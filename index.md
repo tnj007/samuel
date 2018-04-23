@@ -28,3 +28,14 @@ Here are all things related to me and orthopaedics- my thesis, research, consent
     </li>
   {% endfor %}
 </ul>
+
+## Drafts
+
+<ul>
+  {% for post in site.drafts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
