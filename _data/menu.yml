@@ -3,15 +3,26 @@ docs:
 
 - title: Home
   url: /
+  class: btn-floating blue darken-2 waves-effect waves-default
+  icon: arrow_upward
 
 - title: About
   url: about.html
+  class: btn-floating yellow darken-3 waves-effect waves-default
+  icon: person
 
 - title: Public files
   url: https://drive.google.com/drive/folders/1MGTIataD9rRTVA7qBUZC8Im4Sq99NCri
+  class: btn-floating green darken-2 waves-effect waves-default
+  icon: insert_drive_file
   
 - title: Upload
   url: https://script.google.com/macros/s/AKfycbx7svC1GgHcKhffFAW0jjd5JqHN6WnHVjLehhKXaA/exec
+  class: btn-floating green darken-2 waves-effect waves-default
+  icon: cloud_upload
   
 - title: Contact
   url: contact.html
+  class: btn-floating red darken-1 waves-effect waves-default
+  icon: contact_phone
+  
