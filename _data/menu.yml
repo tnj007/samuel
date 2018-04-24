@@ -1,13 +1,13 @@
 docs_list_title: menu
 docs:
 
-- title: Up
-  url: #
+- title: Home
+  url: /
   class: btn-floating blue darken-2 waves-effect waves-default
-  icon: arrow_upward
+  icon: home
 
 - title: About
-  url: about.html
+  url: /about/
   class: btn-floating yellow darken-3 waves-effect waves-default
   icon: person
 
@@ -22,7 +22,7 @@ docs:
   icon: cloud_upload
   
 - title: Contact
-  url: contact.html
+  url: /contact/
   class: btn-floating red darken-1 waves-effect waves-default
   icon: contact_phone
   
