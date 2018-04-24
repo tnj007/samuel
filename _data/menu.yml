@@ -11,7 +11,7 @@ docs:
   url: https://drive.google.com/drive/folders/1MGTIataD9rRTVA7qBUZC8Im4Sq99NCri
   
 - title: Upload
-url: https://script.google.com/macros/s/AKfycbx7svC1GgHcKhffFAW0jjd5JqHN6WnHVjLehhKXaA/exec
+  url: https://script.google.com/macros/s/AKfycbx7svC1GgHcKhffFAW0jjd5JqHN6WnHVjLehhKXaA/exec
   
 - title: Contact
-url: contact.html
+  url: contact.html
