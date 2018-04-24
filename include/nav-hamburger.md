@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: null
 ---
 
 <div class="fixed-action-btn horizontal click-to-toggle">
