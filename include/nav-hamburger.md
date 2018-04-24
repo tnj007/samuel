@@ -1,3 +1,6 @@
+---
+---
+
 <div class="fixed-action-btn horizontal click-to-toggle">
   <a class="btn-floating btn-large waves-effect waves-default pulse">
     <i class="material-icons">{{ site.data.menu.docs_list_title }}</i>
