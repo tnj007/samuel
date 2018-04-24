@@ -7,9 +7,9 @@ layout: default
 Here are all things related to me and orthopaedics- my thesis, research, consents, example discharge summaries, some books and their links-
 
 
-[Thesis data collection proforma in english](./proforma.html) - [External link](https://docs.google.com/forms/d/e/1FAIpQLSePZi9fmgRTYdYGCIcWhI7dx0OvDsbMi4Kri75x1pOxwuWIPA/viewform?embedded=true)
+[Thesis data collection proforma in english](./proforma/) - [External link](https://docs.google.com/forms/d/e/1FAIpQLSePZi9fmgRTYdYGCIcWhI7dx0OvDsbMi4Kri75x1pOxwuWIPA/viewform?embedded=true)
 
-[Thesis data collection proforma in kannada](./proforma-kn.html) - [External link](https://docs.google.com/forms/d/e/1FAIpQLSfUp_NsX54mOziyM2pbD4r9NUgDkOsUB1Px6t18YjRijcDZbg/viewform?embedded=true)
+[Thesis data collection proforma in kannada](./proforma-kn/) - [External link](https://docs.google.com/forms/d/e/1FAIpQLSfUp_NsX54mOziyM2pbD4r9NUgDkOsUB1Px6t18YjRijcDZbg/viewform?embedded=true)
 
 [Consent for participants](https://docs.google.com/document/d/1wH9lNs_hkwAxh84Fg9TO1vAMfPbuvat3nRPKsgdGNbk/edit).
 
