@@ -4,7 +4,7 @@ layout: default
 
 # Hi there !
 
-Here are all things related to me and orthopaedics- my thesis, research, consents, example discharge summaries, some books and important links-
+Here are all things related to me and orthopaedics- my thesis, research, consents, example discharge summaries, some books and their links-
 
 
 [Thesis data collection proforma in english](./proforma.html) - [External link](https://docs.google.com/forms/d/e/1FAIpQLSePZi9fmgRTYdYGCIcWhI7dx0OvDsbMi4Kri75x1pOxwuWIPA/viewform?embedded=true)
