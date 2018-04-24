@@ -13,7 +13,7 @@ docs:
 
 - title: Public files
   url: https://drive.google.com/drive/folders/1MGTIataD9rRTVA7qBUZC8Im4Sq99NCri
-  class: btn-floating green darken-2 waves-effect waves-default
+  class: btn-floating orange darken-1 waves-effect waves-default
   icon: insert_drive_file
   
 - title: Upload
@@ -25,4 +25,3 @@ docs:
   url: /contact/
   class: btn-floating red darken-1 waves-effect waves-default
   icon: contact_phone
-  
