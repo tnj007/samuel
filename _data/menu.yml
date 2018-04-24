@@ -1,8 +1,8 @@
 docs_list_title: menu
 docs:
 
-- title: Home
-  url: {{ page.url }}#
+- title: Up
+  url: #
   class: btn-floating blue darken-2 waves-effect waves-default
   icon: arrow_upward
 
