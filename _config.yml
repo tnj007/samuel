@@ -6,3 +6,4 @@ theme: jekyll-theme-slate
 timezone: Asia/Calcutta
 exclude: [exclude]
 keep_files: [keep]
+permalink: pretty
