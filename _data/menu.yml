@@ -1,0 +1,17 @@
+docs_list_title: Menu
+docs:
+
+- title: Home
+  url: /
+
+- title: About
+  url: about.html
+
+- title: Public files
+  url: https://drive.google.com/drive/folders/1MGTIataD9rRTVA7qBUZC8Im4Sq99NCri
+  
+- title: Upload
+url: https://script.google.com/macros/s/AKfycbx7svC1GgHcKhffFAW0jjd5JqHN6WnHVjLehhKXaA/exec
+  
+- title: Contact
+url: contact.html
