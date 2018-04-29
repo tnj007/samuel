@@ -9,3 +9,5 @@ exclude: [exclude]
 keep_files: [keep]
 include: [include]
 permalink: pretty
+plugins:
+  - jemoji
