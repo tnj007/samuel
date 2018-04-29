@@ -8,6 +8,3 @@ exclude: [exclude]
 keep_files: [keep]
 include: [include]
 permalink: pretty
-jekyll_auth:
-  whitelist:
-    - example?
