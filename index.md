@@ -17,7 +17,7 @@ Here are all things related to me and orthopaedics- my thesis, research, consent
 
 Have a file to share with me ? [Use this link](https://script.google.com/macros/s/AKfycbx7svC1GgHcKhffFAW0jjd5JqHN6WnHVjLehhKXaA/exec)
 
->_Any queries ? email:_ [sam@orthosam.com](mailto:sam@orthosam.com).
+>_Any queries :question:	 :e-mail:_ [sam@orthosam.com](mailto:sam@orthosam.com).
 
 <!--
 ## Posts
