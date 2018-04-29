@@ -6,11 +6,11 @@ layout: default
 
 Hot links-
 
-https://github.com/Dr-Anonymous/Dr-Anonymous.github.io - automatic!
+[https://github.com/Dr-Anonymous/Dr-Anonymous.github.io]
 
-https://docs.google.com/forms/d/e/1FAIpQLSePZi9fmgRTYdYGCIcWhI7dx0OvDsbMi4Kri75x1pOxwuWIPA/viewanalytics - automatic!
+[https://docs.google.com/forms/d/e/1FAIpQLSePZi9fmgRTYdYGCIcWhI7dx0OvDsbMi4Kri75x1pOxwuWIPA/viewanalytics]
 
-https://drive.google.com/drive/folders/1z53yzY6yWmEYeAeTdp3lDXRp76mohyYf
+[https://drive.google.com/drive/folders/1z53yzY6yWmEYeAeTdp3lDXRp76mohyYf]
 
 
 <!--
