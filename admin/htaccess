@@ -3,6 +3,6 @@ layout: null
 permalink: /admin/.htaccess
 AuthType Basic
 AuthName "Protected Area"
-AuthUserFile /full/path/to/.htpasswd
+AuthUserFile /admin/.htpasswd
 Require valid-user
 ---
