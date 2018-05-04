@@ -12,7 +12,7 @@
 
 body {
 	
-	background-image: url('grunge_patterns.jpg');
+	background-image: url('pattern.jpeg');
 	background-attachment: fixed;
 	color: #333;
 }
