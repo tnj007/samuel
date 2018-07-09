@@ -1,5 +1,4 @@
 ---
-layout: null
 ---
 <body onload="callGoogleScript();">
 <script>
