@@ -18,7 +18,8 @@
   // print the returned data
   function ctrlq(e) {
   var div = document.getElementById('main_content');
-        div.innerHTML = e.result1;
+       console.log(e.result1);
+       div.innerHTML = e.result2;
   }
   
  //get url parameters
