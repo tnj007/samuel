@@ -8,7 +8,7 @@
 <script>
     // Make an AJAX call to Google Script
   function callGoogleScript() {
-    var url = "https://script.google.com/macros/s/AKfycbyd3OPH7qwydqI9BGWn2oSU5uWGjwFwrg4I_nOU90alk7MwjIrQ/exec?callback=ctrlq&name="+ urlPara("id");
+    var url = "https://script.google.com/macros/s/AKfycbyd3OPH7qwydqI9BGWn2oSU5uWGjwFwrg4I_nOU90alk7MwjIrQ/exec?callback=ctrlq&name="+ urlPara("id");;
     
     var request = jQuery.ajax({
       crossDomain: true,
