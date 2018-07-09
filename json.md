@@ -8,7 +8,7 @@
     
     var request = jQuery.ajax({
       crossDomain: true,
-      url: url + encodeURIComponent(name),
+      url: url + encodeURIComponent(id),
       method: "GET",
       dataType: "jsonp"
     });
