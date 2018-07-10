@@ -3,7 +3,7 @@
 <body onload="callGoogleScript();">
 <script>
     // Make an AJAX call to Google Script
-    var id= urlPara("q");
+    var id= urlPara("id");
   function callGoogleScript() {
     var url = "https://script.google.com/macros/s/AKfycbyd3OPH7qwydqI9BGWn2oSU5uWGjwFwrg4I_nOU90alk7MwjIrQ/exec?callback=ctrlq&id="+id ;
     
