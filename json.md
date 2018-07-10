@@ -6,7 +6,7 @@ layout: card
     // Make an AJAX call to Google Script
     var id= urlPara("id");
     console.log(id);
-    if (id=null){
+    if (!id){
     id="1MGTIataD9rRTVA7qBUZC8Im4Sq99NCri";
     }    console.log(id);
   
