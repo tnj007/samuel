@@ -10,7 +10,7 @@
     console.log(id);
     var request = jQuery.ajax({
       crossDomain: true,
-      url: url + encodeURIComponent(id),
+      url: url //+ encodeURIComponent(id),
       method: "GET",
       dataType: "jsonp"
     });
