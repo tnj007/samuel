@@ -6,11 +6,11 @@
     var id= urlPara("id");
     
   function callGoogleScript() {
-    var url = "https://script.google.com/macros/s/AKfycbyd3OPH7qwydqI9BGWn2oSU5uWGjwFwrg4I_nOU90alk7MwjIrQ/exec?callback=loadData&id="+id ;
+    var url = "https://script.google.com/macros/s/AKfycbyd3OPH7qwydqI9BGWn2oSU5uWGjwFwrg4I_nOU90alk7MwjIrQ/exec?callback=loadData&id=" ;
 
 var request = jQuery.ajax({
       crossDomain: true,
-      url: encodeURIComponent(url),
+      url: url + encodeURIComponent(id),
       method: "GET",
       dataType: "jsonp"
     });
