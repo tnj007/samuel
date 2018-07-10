@@ -1,4 +1,5 @@
 ---
+layout: card
 ---
 <body onload="callGoogleScript();">
 <script>
@@ -32,10 +33,4 @@ return url.searchParams.get(p);
 }
 
 </script>
-<!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="row">
-        <p>Loading....</p>
-     </section>
-    </div>
 </body>
