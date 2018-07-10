@@ -5,7 +5,7 @@
     // Make an AJAX call to Google Script
     var id= urlPara("id");
   function callGoogleScript() {
-    var url = "https://script.google.com/macros/s/AKfycbyd3OPH7qwydqI9BGWn2oSU5uWGjwFwrg4I_nOU90alk7MwjIrQ/exec?callback=ctrlq&id="+id ;
+    var url = "https://script.google.com/macros/s/AKfycbyd3OPH7qwydqI9BGWn2oSU5uWGjwFwrg4I_nOU90alk7MwjIrQ/exec?callback=loadData&id="+id ;
     
     var request = jQuery.ajax({
       crossDomain: true,
@@ -16,10 +16,10 @@
 
   }
   // print the returned data
-  function ctrlq(e) {
+  function loadData(e) {
   var div = document.getElementById('main_content');
-       console.log(e.result1);
-       div.innerHTML = e.result2;
+       console.log(e.result2);
+       div.innerHTML = e.result1;
   }
   
  //get url parameters
