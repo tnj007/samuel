@@ -18,7 +18,7 @@
   // print the returned data
   function loadData(e) {
   var div = document.getElementById('main_content');
-       console.log(urlPara("id"););
+       console.log("urlPara("id");");
        div.innerHTML = e.result1;
   }
   
