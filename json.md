@@ -4,9 +4,10 @@
 <script>
     // Make an AJAX call to Google Script
     var id= urlPara("id");
+    
   function callGoogleScript() {
     var url = "https://script.google.com/macros/s/AKfycbyd3OPH7qwydqI9BGWn2oSU5uWGjwFwrg4I_nOU90alk7MwjIrQ/exec?callback=loadData&id="+id ;
-    
+    console.log(id);
     var request = jQuery.ajax({
       crossDomain: true,
       url: url + encodeURIComponent(id),
