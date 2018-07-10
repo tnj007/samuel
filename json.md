@@ -6,8 +6,8 @@ layout: card
     // Make an AJAX call to Google Script
     var id= urlPara("id");
     console.log(id);
-   // if (id='')
-   // id="1MGTIataD9rRTVA7qBUZC8Im4Sq99NCri";
+    if (id=null)
+    id="1MGTIataD9rRTVA7qBUZC8Im4Sq99NCri";
   function callGoogleScript() {
     var url = "https://script.google.com/macros/s/AKfycbyd3OPH7qwydqI9BGWn2oSU5uWGjwFwrg4I_nOU90alk7MwjIrQ/exec?callback=loadData&id=" ;
 
