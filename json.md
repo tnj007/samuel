@@ -24,6 +24,7 @@ var request = jQuery.ajax({
   function loadData(e) {
   var div = document.getElementById('main_content');
        div.innerHTML = e.result1;
+             if (e.result2)
              console.log(e.result2);
 
   }
