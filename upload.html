@@ -1,6 +1,30 @@
 ---
 layout: default
 ---
+<script>
+  
+     // Make an AJAX call to Google Script
+  function callGoogleScript() {
+    var url = "https://script.google.com/macros/s/AKfycbxAOq39hNFpe6Ylgn28SK8R2dgV6XAII_V_Sxga4eb_mVNRu9Y/exec" ;
+
+var request = jQuery.ajax({
+      crossDomain: true,
+      url: url + encodeURIComponent(),
+      method: "GET",
+      dataType: "jsonp"
+    });
+
+  }
+  // print the returned data
+  function loadData(e) {
+  var div = document.getElementById('main_content');
+       div.innerHTML = e.result1;
+             if (e.result2)
+             console.log(e.result2);
+
+  }
+ 
+</script>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>        
         <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
         <script>
