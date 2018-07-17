@@ -15,7 +15,7 @@ Here are all things related to me and orthopaedics- my thesis, research, consent
 
 [Files for public access:open_file_folder:](https://drive.google.com/drive/folders/1MGTIataD9rRTVA7qBUZC8Im4Sq99NCri).
 
-Have a file :floppy_disk: to share with me ? [Use this link](https://script.google.com/macros/s/AKfycbx7svC1GgHcKhffFAW0jjd5JqHN6WnHVjLehhKXaA/exec)
+Have a file :floppy_disk: to share with me ? [Use this link](https://upload.orthosam.com)
 
 >_Any queries :question:	 :e-mail:_ [sam@orthosam.com](mailto:sam@orthosam.com).
 
