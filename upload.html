@@ -86,15 +86,23 @@ layout: default
            hello
         </p>
         
-        <form id="myForm"> 
+        <form class="main" id="myForm"> 
                <!-- <div>
                 <input type="text" name="myName" id="myName"> 
                 </div> -->
-                            
-                <input type="file" placeholder="drag and drop files here" name="filename" id="myFile" multiple>
-                <br>
-                <input type="submit" value="Upload" >
-        </form>
+          <div id="forminner">   
+                  <div class="row">
+                          <div class="file-field input-field col s12">
+                                  <div class="btn">
+                                          <span>File</span>
+                                          <input type="file" value="drag and drop files here" name="filename" id="myFile" multiple>
+                                  </div>
+                                  <div class="file-path-wrapper">
+                                        <input type="submit" value="Upload">
+                                  </div>
+                          </div>
+                 </div>
+         </form>
 
         <div id="output"></div>
         <div id="progressbar">
