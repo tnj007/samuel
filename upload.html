@@ -98,11 +98,21 @@ layout: default
                                           <input type="file" value="drag and drop files here" name="filename" id="myFile" multiple>
                                   </div>
                                   <div class="file-path-wrapper">
-                                        <input type="submit" value="Upload">
+                                     <input class="file-path validate" type="text" placeholder="Select a file on your computer">  
                                   </div>
                           </div>
                  </div>
-           </div>
+          
+                  
+         <div class="row">
+          <div class="input-field col s6">
+                 <!-- <input type="submit" value="Upload">-->
+            <button class="waves-effect waves-light btn submit-btn" type="submit">Upload</button>
+          </div>   
+        </div>
+                
+                
+          </div>
        </form>
 
         <div id="output"></div>
